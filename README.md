@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @VirginiaGP
+- 👀 I’m interested in a lot of stuff
+- 🌱 I’m currently trying to learn about GitHub environment
